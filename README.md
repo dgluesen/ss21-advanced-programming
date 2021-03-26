@@ -1,1 +1,1 @@
-# ss21-advanded-programming
+# ss21-advanced-programming
